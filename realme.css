@@ -1,0 +1,230 @@
+body{
+    margin:0;
+    padding: 0px;
+}
+.first{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(19, 12, 12);
+    display: flex;
+    flex-direction: row;
+}
+.logodiv{
+   
+    height: 50px;
+    width: 30%;
+}
+.textdiv{
+    
+    height: 50px;
+    width: 30%;
+}
+.buttondiv{
+   
+    height: 50px;
+    width: 40%;
+}
+.img{
+    height: 40px;
+    width: 40px;
+    margin-top: 5px;
+    margin-left: 400px;
+}
+.text1{
+    margin-left: 10px;
+    font-size: 18px;
+    color: antiquewhite;
+}
+.firstbutton{
+    font-size:x-small;
+    height: 30px;
+    width: 120px;
+    margin-top: 10px;
+    padding-left: 10px;
+    border-radius: 15px;
+    
+}
+.nav2{
+    height: 40px;
+    width: auto;
+    
+    display: flex;
+}
+.firstpart{
+    
+    width: 65%;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+}
+.secondpart{
+    
+    height: 30px;
+    width:15%;
+    display: flex;
+    flex-direction: row;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 10px;
+}
+a.tabs{
+    text-decoration: none;
+    color: rgb(71, 69, 69);
+}
+.line{
+    margin-top: 3px;
+}
+.nav3{
+    height: 50px;
+    width:auto;
+    background-color: rgb(234, 231, 227);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content:space-between;
+    padding-top: 15px; 
+    padding-left: 50px;   
+    padding-right: 50px;
+}
+.logo1{
+    height: 20px;
+    width: 100px;
+    padding-top: 10px;
+    padding-left: 130px;
+}
+.search{
+    height: 20px;
+    width: 20px;
+    padding-right: 50px;
+}
+.innerdiv{
+    height: 550px;
+    width: 100%;
+    background-color: blue;
+}
+.innerimage{
+    height: 550px;
+    width: 100%;
+}
+.heading1{
+    margin-left: 150px;
+}
+.innerdiv2{
+    height: 400px;
+    width: auto;
+    background-color: rgb(231, 241, 242);
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    justify-content: space-between;
+    
+}
+.smarttv1{
+    height: 200px;
+    width: 300px;
+    margin-left: 80px;
+    margin-top: 20px;
+    font-size: 20px;
+    
+}.smarttv2{
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    
+}
+.buds1{
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    
+}
+.buds2{
+    height: 300px;
+    width: 300px;
+    margin-right: 80px;
+    margin-top: 20px;
+    
+}
+.tabimg1{
+    height: 300px;
+    width: 300px;
+}
+.description1{
+    text-decoration: none;
+    color:black;
+    font-size: 16px;
+    margin-left: 20px;
+}
+.heading1{
+    color: crimson;
+}
+.lastimg{
+    height: 350px;
+    width: auto;
+    background-color:aqua;
+}
+.tabimg2{
+    height: 350px;
+    width: 100%;
+
+}
+.end{
+    height: 350;
+    width: 100%;
+    
+    display: flex;
+}
+.lastdiv{
+    height: 350px;
+    width: 70%;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+
+}
+.description2{
+    text-decoration: none;
+    color: black;
+    
+    
+}.lastdiv2{
+    height: 350px;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+}
+.buttdiv{
+height: 50%;
+
+}
+.logodiv{
+    height: 50%;
+    width: auto;
+    
+}
+.social{
+    height: 50px;
+    width: 50px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.lastbu{
+    height: 40px;
+    width: 150px;
+    shape-outside: margin-box;
+    
+    margin-top: 80px;
+    margin-left: 80px;
+    
+}
+.lasttext{
+    margin-left: 65px;
+}
